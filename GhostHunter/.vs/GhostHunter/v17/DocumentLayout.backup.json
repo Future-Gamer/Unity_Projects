@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\GhostHunter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|d:\\unity_projects\\ghosthunter\\assets\\scripts\\endui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\targetscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\tooglegrabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooglegrabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\gungrabandfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gungrabandfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\firebulletonactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebulletonactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|D:\\Unity_Projects\\GhostHunter\\assets\\scripts\\activateteleportationray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5454ABC1-65CC-EDA8-06A6-8DDC91762A34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activateteleportationray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndUI.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\EndUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndUI.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\EndUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:56:12.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TargetScoreManager.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\TargetScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetScoreManager.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\TargetScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetScoreManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:33:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:32:56.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:21:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GunGrabAndFire.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\GunGrabAndFire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunGrabAndFire.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\GunGrabAndFire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunGrabAndFire.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:33:33.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FireBulletOnActivate.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\FireBulletOnActivate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireBulletOnActivate.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\FireBulletOnActivate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireBulletOnActivate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:06:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToogleGrabObject.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\ToogleGrabObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToogleGrabObject.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\ToogleGrabObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToogleGrabObject.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:32:27.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimateHandOnInput.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:09:17.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivateTeleportationRay.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\ActivateTeleportationRay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateTeleportationRay.cs",
+              "ToolTip": "D:\\Unity_Projects\\GhostHunter\\Assets\\Scripts\\ActivateTeleportationRay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActivateTeleportationRay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:09:16.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
