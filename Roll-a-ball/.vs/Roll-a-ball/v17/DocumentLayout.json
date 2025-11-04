@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\Roll-a-ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Roll-a-ball\\assets\\scripts\\gameexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|d:\\unity_projects\\roll-a-ball\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Roll-a-ball\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Roll-a-ball\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Roll-a-ball\\assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameExit.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\GameExit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameExit.cs",
+              "ToolTip": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\GameExit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:45:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:46:47.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotator.cs",
+              "ToolTip": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\Rotator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:03:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:12:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Unity_Projects\\Roll-a-ball\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:12:52.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
